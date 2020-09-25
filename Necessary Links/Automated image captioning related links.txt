@@ -1,0 +1,5 @@
+1.https://towardsdatascience.com/automatic-image-captioning-with-cnn-rnn-aae3cd442d83
+2.https://www.analyticsvidhya.com/blog/2018/04/solving-an-image-captioning-task-using-deep-learning/
+3.https://www.hindawi.com/journals/cin/2020/3062706/
+4.https://arxiv.org/pdf/1809.00339.pdf
+5.https://www.ijain.org/index.php/IJAIN/article/view/499
