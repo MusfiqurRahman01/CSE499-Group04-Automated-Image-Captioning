@@ -1,2 +1,3 @@
 Links are given below
 1.https://csce.ucmss.com/cr/books/2019/LFS/CSREA2019/IPC3562.pdf
+2.https://www.researchgate.net/publication/327435063_Chittron_An_Automatic_Bangla_Image_Captioning_System
